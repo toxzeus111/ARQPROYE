@@ -1,10 +1,11 @@
 # Proyecto Cliente/Servidor en Python
 
 ## Descripción
-Este proyecto es un ejemplo básico de una arquitectura cliente/servidor utilizando Flask para el servidor y requests para el cliente. El servidor ofrece un endpoint que responde con un saludo en formato JSON.
+Hola profe este es un ejemplo básico de una arquitectura cliente/servidor utilizando Flask para el servidor y requests para el cliente. El servidor ofrece un endpoint que responde con un saludo en formato JSON.
 
 ## Requisitos
-- **Python**: Asegúrate de tener instalada la versión 3.x de Python.
+profe se necesita el flask
+
 - **Flask**: Para ejecutar el servidor.
 - **Requests**: Para hacer solicitudes HTTP desde el cliente.
 
@@ -27,4 +28,3 @@ Este proyecto implementa una arquitectura cliente/servidor utilizando Flask como
 1. Primero, se debe iniciar el servidor ejecutando `servidor.py`, lo que permite que el servidor comience a escuchar solicitudes.
 2. Luego, en otra terminal, se ejecuta `cliente.py`, que realiza la solicitud al servidor y muestra la respuesta.
 
-Este modelo demuestra la interacción básica entre un cliente y un servidor, ilustrando cómo se pueden comunicar y compartir información a través de solicitudes HTTP.
